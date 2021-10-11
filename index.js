@@ -6,4 +6,4 @@ function getFullname(firstName, lastName) {
 }
 
 // call the function
-console.log(getFullname(firstName, lastName));
+console.log(getFullname("firstName", "lastName"));

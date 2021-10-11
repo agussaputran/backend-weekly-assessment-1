@@ -1,6 +1,6 @@
 function getFullname(firstName, lastName) {
-  let firstName = "Pranidya";
-  let lastName = "Luigi";
+  firstName = "Pranidya";
+  lastName = "Luigi";
   //process
   // nilai balikan
 }

@@ -1,7 +1,6 @@
-function getFullname(parameter1, parameter2){
-    //process
-    // nilai balikan
+function sayHello(firstName, lastNAme, age, address){
+    message = `Hello, I am ${firstName} ${lastNAme}, I am ${age} years old, I lived in ${address}.`;
+    return message;
 }
 
-// call the function
-console.log(getFullname("parameter1","parameter2"))
+console.log(sayHello("Rahmat","Adi Wijaya", "24", "Malang"));

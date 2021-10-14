@@ -4,3 +4,4 @@ function getFullname(paramater1, parameter2) {
 }
 
 // call the function
+console.log(getFillname(parameter1, parameter2));

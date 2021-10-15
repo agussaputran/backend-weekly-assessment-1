@@ -1,6 +1,6 @@
 function makananSehat (buah, sayur, lauk) {
   //process
-  const makanan = `${buah}, ${sayur}, dan ${lauk} adalah makanan yang bergizi`; ;
+  const makanan = `${buah}, ${sayur}, dan ${lauk} adalah makanan yang bergizi`;
   // nilai balikan
   return makanan;
 }

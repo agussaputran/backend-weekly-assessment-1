@@ -1,7 +1,8 @@
-function getFullname(paramater1, parameter2) {
+function makananSehat (buah, sayur, lauk) {
   //process
+  const makanan = `${buah}, ${sayur}, dan ${lauk} adalah makanan yang bergizi`;
   // nilai balikan
+  return makanan;
 }
-
 // call the function
-console.log(getFullname(parameter1, parameter2));
+console.log(makananSehat("tomat", "apel", "ikan"));
